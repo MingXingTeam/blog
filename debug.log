@@ -1,0 +1,14 @@
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Hexo version: 3.1.1","time":"2015-09-19T01:56:17.668Z","v":0}
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Working directory: ~\\Desktop\\新建文件夹\\mingxingteam.github.io","time":"2015-09-19T01:56:17.674Z","v":0}
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Config loaded: ~\\Desktop\\新建文件夹\\mingxingteam.github.io\\_config.yml","time":"2015-09-19T01:56:17.814Z","v":0}
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Script loaded: themes\\landscape\\scripts\\merge-configs.js","time":"2015-09-19T01:56:17.829Z","v":0}
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Script loaded: themes\\landscape\\scripts\\tags\\center-quote.js","time":"2015-09-19T01:56:17.829Z","v":0}
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Script loaded: themes\\landscape\\scripts\\tags\\full-image.js","time":"2015-09-19T01:56:17.830Z","v":0}
+{"name":"hexo","hostname":"pc","pid":7856,"level":20,"msg":"Database saved","time":"2015-09-19T01:56:17.837Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Hexo version: \u001b[35m3.1.1\u001b[39m","time":"2015-09-19T01:56:35.122Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Working directory: \u001b[35m~\\Desktop\\新建文件夹\\mingxingteam.github.io\u001b[39m","time":"2015-09-19T01:56:35.130Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Config loaded: \u001b[35m~\\Desktop\\新建文件夹\\mingxingteam.github.io\\_config.yml\u001b[39m","time":"2015-09-19T01:56:35.266Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Script loaded: \u001b[35mthemes\\landscape\\scripts\\merge-configs.js\u001b[39m","time":"2015-09-19T01:56:35.279Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Script loaded: \u001b[35mthemes\\landscape\\scripts\\tags\\full-image.js\u001b[39m","time":"2015-09-19T01:56:35.281Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Script loaded: \u001b[35mthemes\\landscape\\scripts\\tags\\center-quote.js\u001b[39m","time":"2015-09-19T01:56:35.281Z","v":0}
+{"name":"hexo","hostname":"pc","pid":2432,"level":20,"msg":"Database saved","time":"2015-09-19T01:56:35.296Z","v":0}
